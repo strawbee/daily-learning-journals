@@ -1,6 +1,12 @@
-# LJ Code 201 - Day 2
+# Learning Journal: Code 201, Day 2
+###### Tue, Sept 19, 2017
 
-Today we did some stuff:
-- HTML
-- CSS
-- JS
+Working with HTML and CSS is bringing back a lot of memories from back in the day (10+ years ago!), although it's awesome to learn about the new features available and also to learn correct formatting and conventions. I shudder to think about how I used to create layouts with tables, and it's so much simpler and more efficient having separate CSS files instead of writing all the CSS in a tag within the HTML document.
+
+I am also learning a lot about JavaScript. Prior to the pre-work for Code 201, I had zero JavaScript experience, so it's very interesting to learn about what I can do with it and how I can incorporate it into my designs and sites.
+
+As far as Git/GitHub and Terminal, all of this is completely new to me as well and I'm happy to add these skills to my arsenal. I do want to replace my main github page that I can access via browser link, because it still shows my Code 101 assignment, which is something I should try to figure out or ask about later.
+
+I learn far better by reading and doing rather than by listening. I read the HTML/CSS book last weekend and I knocked out the JavaScript readings/homework for this week yesterday during our lab time. I plan to finish the JavaScript book this weekend. I tend to get way too distracted just listening to a lecture. Also, everything the lectures in these past couple of days has already been covered in the books, so I normally multi-task during the lecture portion of class (although, I don't want to be rude or imply that I don't find the lectures useful; I'm quite happy with my Code Fellows experience so far because it motivates me to action, something that I never would have done if I did not have deadlines/guidance and had continued working full time) by reading JavaScript tutorials online. It's really fun, although trying to puzzle out how the sort() function works gave me a headache and made me want to throw knives at babies. I still haven't figured it out, so I just wrote down the formulas to refer back to for the time being.
+
+Our lab project today was fun as well and I love creating pretty things with CSS. I tried receiving the answer values via an HTML form instead of a prompt, but I couldn't get it to work. I am told that we will learn about using JavaScript to store form values later, which is something I am interested to learn. That's all; just gotta finish the quiz and Day 2 is done!
