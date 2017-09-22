@@ -5,9 +5,9 @@ Today we did code review of the 6th and 7th questions in our About Me projects. 
 
 >var answer = RegExp(answer);
 if (answer.text(arrayOfPossibleAnswers) === true) {
-  alert('You are right!')
+  alert('You are right!');
 } else {
-  alert('You are wrong!' }
+  alert('You are wrong!'); }
 
 (Not sure why I can't get this markdown code to have line breaks!)
 
