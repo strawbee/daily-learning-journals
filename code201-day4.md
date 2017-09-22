@@ -4,7 +4,7 @@
 Today we did code review of the 6th and 7th questions in our About Me projects. Sam wrote out an example of how each question would work. It was interesting to see how it differed from mine. He used for loops to find if an answer matched any of the values in the array, and I used indexOf. During the morning lecture, I was also reading about Regular Expressions, and I think something like the following would work too, although I haven't tested it:
 
 >var answer = RegExp(answer);
-if (answer.text(arrayOfPossibleAnswers) === true) {
+if (answer.test(arrayOfPossibleAnswers) === true) {
   alert('You are right!');
 } else {
   alert('You are wrong!'); }
