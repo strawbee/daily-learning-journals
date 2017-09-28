@@ -7,10 +7,10 @@ We worked on the sales page of our cookie stand project today and added in the a
 
 The events chapter that was due for reading this morning was really dense. I may have to re-read it at some point to fully understand it, but I think I can get by for now.
 
-I finished the HTML and CSS For the index.html page of our cookie stand project yesterday, so I don't think I will have much to do tomorrow for it, since Sam said we will be mostly focusing on CSS and design later on this week.
+I finished the HTML and CSS for the index.html page of our cookie stand project yesterday, so I don't think I will have much to do tomorrow for it, since Sam said we will be mostly focusing on CSS and design later on this week.
 
-Oh yeah, I wrote a pretty spiff quiz yesterday about events for the reading due today. After today's class, I realize I could have improved on some coding conventions (I didn't use labels, for one), but all the code in the quiz was function and I was pretty proud of it.
+Oh yeah, I wrote a pretty spiff quiz yesterday about events for the reading due today. After today's class, I realize I could have improved on some coding conventions (I didn't use labels, for one), but all the code in the quiz was functional and I was pretty proud of it.
 
 I wonder what we will be focusing on in week 3. jQuery, I'm assuming, since that's pretty much all that's left in our books to read about.
 
-Not too much to say today. I'm still caught up on the class syllabus although this is a lot of work and material to cover.
+Not too much to say today. I'm still caught up on the class syllabus although this is a lot of work and material to cover and it gets tiring.
