@@ -1,5 +1,5 @@
 # Learning Journal: Code 201, Day 13
-###### Wed, Oct 4nd, 2017
+###### Wed, Oct 4th, 2017
 
 Mid-week! This coding boot camp is really turning my sleep schedule around. I went from sleeping at 2AM or later to sleeping at or before midnight by this week. I kept at around 2AM on weeks 1 and 2 and it was exhausting, but now I am officially an old person with my sleeping schedule. Hooray! ..?
 
