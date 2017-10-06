@@ -1,0 +1,12 @@
+# Learning Journal: Code 201, Day 15
+###### Fri, Oct 6th, 2017
+
+At the end of week 3! This week was less learning overall than week 2, but while I had a rudimentary understanding of many of the week 2 topics from pre-reading for the class and playing around with code on my own, the week 3 topics were new concepts. I hadn't heard of JSON, local storage, and CSS3 animations before, so that was awesome to know about.
+
+I finished going through the JavaScript book; only skimmed the jQuery chapter since we will be covering that for 301 and I will likely re-read it at that point. Skimmed the Ajax & JSON chapter as well, and skipped the APIs chapter. The content panels chapter is really cool - gives easy access to how to code pretty layout ideas.
+
+Our lab yesterday was to create an order form for our bus-mall lab products with a peer partner. It seemed like a pretty rudimentary project when I read the lab description, but it turned out to be a lot more work than I thought. My husband (who is a programmer) says that it's always more work than you think it is in the beginning, so that's something to keep in mind! We still managed to finish making things work and initial styling in just over 4 hours, and I did a little more styling and organizing the code at home last night. My partner was good to work with and we just breezed through everything together.
+
+I like peer partnering and explaining concepts and going over bugs together, but only when I'm the driver... it drives me up the wall to be the navigator. Luckily everyone is generally okay with me being the driver, because I type fast and have a generally good idea of what's going on. Not sure if this is a weakness that I would need to work on, though... it makes me frustrated when someone is typing so slowly and not spacing/indenting the code correctly, and then it takes forever to do something that I could have typed in much less time... I also think I would have a hard time trusting people if we split up the project, if I feel like I could do it better. I think this will change when I am partnering with a senior programmer who has a better idea of what is going on than I do, but I may need to work on trusting people and being patient with their processes if they are on the same level as or less knowledgeable than me.
+
+I'm excited about project week but apprehensive about project ideas. I would love to be able to implement my idea of a layout maker / generator, but I will try to keep an open mind about other ideas if my team members don't want to do that.
