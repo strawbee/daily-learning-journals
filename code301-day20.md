@@ -1,5 +1,5 @@
-# Code 301, Day 19
-###### Thu, Nov 17th, 2017
+# Code 301, Day 20
+###### Sun, Nov 19th, 2017
 
 Good day Friday - great projects from the whole class, my team's presentation went well, and then lots of well-deserved celebrating with classmates. I feel like the whole group has bonded so it'll be sad to part ways with most people for 401. I have a good bit until the January 401. Lots of real life things to catch up on, including getting up to date on my dance choreo, going to martial arts more, and running my half-marathon next weekend. I've been falling behind! Oh yeah, and my house is a disaster. My hubs doesn't clean so someone should... maybe.... maybe not me x) I mean I read an article at some point that people are happier when they spend money distributing tasks that they don't want to do while spending their own time being productive on what they do want to do or are good at, so.
 
