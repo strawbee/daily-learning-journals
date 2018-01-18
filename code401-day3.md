@@ -1,0 +1,8 @@
+# Code 401, Day 3
+###### Wed, Jan 17, 2018
+
+Back in classes. :) I definitely wanted more than the one week break between 301 and 401, but almost two months was way too much. I think if we had started class in December like the C# class, that would have been ideal. I definitely wasn't as productive over break as I wanted to be, but I did get a few things done - some Codewars problems, some reading, a chat application using 301 concepts (which is definitely not secure; looking forward to learning about encryptions). I also ran a half-marathon, went to Mexico twice, hosted my mother-in-law for a week, and caught up on a lot of life, so all in all it was great. But I was pretty antsy by the time mid-Jan rolled around!
+
+So far 401 is starting off pretty well, considering it's all back-end and my head tends to just glaze over when thinking about big picture back end concepts. I've been finishing labs with plenty of time to go to the gym. I heard the Bitmap day tomorrow is supposed to be terrible so fingers crossed that it's not. I studied some data structures too, though, so I feel like Friday won't be too bad and I can use it to catch up on bitmaps if I need to. 
+
+Over the break I dedicated a couple mights to learning AngularJS, and I think it's really cool. I can't wait to start on the front-end portion of the class, and I think I will try to code with Angular whatever lab we are doing with React concurrently. 
