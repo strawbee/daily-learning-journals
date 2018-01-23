@@ -5,4 +5,4 @@ Almost halfway through week 2. Week one went well. So far 401 is a lot slower th
 
 But I am finding time to still have a life and to be able to do other things concurrently with 401, which is awesome. Still averaging about 4 hours of sleep a night, but completely my own fault because I just stay up watching movies or going out dancing. :) I like to think that I can function better than the average person on little sleep, though.
 
-I should get back into doing Codewars problems.
+I should get back into doing Codewars problems. 
