@@ -1,0 +1,8 @@
+# Code 401, Day 33
+###### Wed, Feb 28, 2018
+
+Week and a half into learning React and Redux - gotta say, it's harder than I anticipated. For some reason, learning front end is feeling a lot like learning back end! But, I love love love SASS. Just haven't had enough time to really delve into it. I think it will make CSS so much better.
+
+Behind this week on Redux as I've been sick. Just need to do some independent learning / catching up during the weekend, if I have time. I can put the code for labs together after some time, because of the extensive code examples and code reviews in lecture, but I don't think I would be able to put an application together from scratch that's anywhere close to what we are supposed to have if I didn't have the examples to refer to. I think that will come with time, though - if 301 and first half of 401 is any indication, things will really fall into piece when I practice it during project week. Still would be nice to feel confident about it before project week, though.
+
+I enjoy the whiteboard challenges a lot love solving them, but I'm not sure that I would be good at a real interview whiteboarding scenario because I tend to think better in my head and I like to be able to try out code in my console while I'm thinking it through. I have no doubt that I can find the solution a problem if I tried, but I'm not sure I'd be able to articulate my thoughts and my process very well and within the correct amount of time.
