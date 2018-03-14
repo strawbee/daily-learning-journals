@@ -1,0 +1,8 @@
+# Code 401, Day 43
+###### Wed, Mar 14, 2018
+
+Shit's hitting the fan, just over a week before graduation. Did a couple mock interviews with TAs this week and I have my actual final whiteboarding exam later today. Fingers crossed. I did well, but the questions from the TAs were easy and more time was allotted than for the actual final. Hoping it's not a mathy recursion question for the whiteboarding - really want to just get it over with and not have to retake it! And I have an mock interview with an industry rep this Friday, which should be interesting. 
+
+Resubmits are due by Sunday so I need to decide if I should do my deployment labs for both front end and back end. I think I should tackle the OAuth one just because it would be a good learning experience, but there are so many other things on our plate right now and after my slight resubmits today, my grade should be over 101% without those labs. If I decide to focus on other things, I'd definitely give the OAuth lab a try after class ends just to learn it, although it would be a nice add to our final project. 
+
+We're thinking a socketIO game for the project. I'm super down with the idea so excited about that, but also pretty damn scared because we have to learn socketIO, potentially Canvas, and how to load test / make a spike by the end of the week, and there is much planning to do. I'm sure we'll pull through, though, with a five person team of solid people. It'll just take a good amount of work.
